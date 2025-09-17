@@ -58,5 +58,5 @@ This project provides a stepping stone toward advanced fields such as:
 - **Game Development and Visualization**  
 
 ## Contact
-For any questions or inquiries, please contact the project maintainer at [mahjabinmaisha439@gmail.com.com](mailto:mahjabinmaisha439@gmail.com.com).
+For any questions or inquiries, please contact the project maintainer at [mahjabinmaisha439@gmail.com](mailto:mahjabinmaisha439@gmail.com).
 
