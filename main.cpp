@@ -24,8 +24,7 @@ int currentScene = 1;
 
 
 // =======================================================================
-// |                        NAMESPACE FOR SCENE 1                        |
-// |                   (Content from 'Tunnel 4.txt')                     |
+// |                        NAMESPACE FOR SCENE 1                        ||
 // =======================================================================
 namespace Scene1 {
     // All global variables and functions from your first file are placed here.
