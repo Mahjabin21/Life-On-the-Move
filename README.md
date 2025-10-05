@@ -1,8 +1,7 @@
 # [Life on the Move: Nature and Transport across Diverse Terrains](#)
-# ! [My Image](images/Train tunnel.png)
 ## Introduction
 **"Life on the Move"** is a Computer Graphics project built using **OpenGL** that visualizes three animated sceneries with realistic details. The project demonstrates how fundamental shapes and simple code can generate visually rich and dynamic environments.  
-
+! [My Image](images/Train tunnel.png)
 The three sceneries include:  
 - **Snow Land:** A winter environment with snowfall, penguins, fish, residential houses, vehicles, sky lift, Christmas tree, and snowman.  
 - **Desert:** A hot dry landscape featuring sand, cacti, desert mountains, houses, moving cars, cellphone tower, and flying birds.  
